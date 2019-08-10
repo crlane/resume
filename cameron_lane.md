@@ -79,7 +79,6 @@ I am a passionate, hands-on technical leader with expertise in developing highly
 
     M.A.T. - Secondary Mathematics, July 2010
      - Graduate Honors (4.0 GPA)
-     - Master's Project: _A Modern Constructivist Approach to Computing in the Mathematics Classroom_
 
 *   **Georgia Institute of Technology** (Atlanta, GA)
 
