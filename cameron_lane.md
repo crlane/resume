@@ -29,7 +29,7 @@ I am a passionate, hands-on technical leader with expertise in developing highly
 
     *Software Developer -> Senior Software Developer*
     -   Used Python, pyramid, & MongoDB to build RESTful microservice for payment processing
-    -   Developed statistics API used to provide data for to web client for data visualization
+    -   Developed statistics API used to provide data to web client for data visualization
     -   Built and maintained Elasticsearch cluster to enable complex full text search queries over data set >100MM records
 
 *   **Holy Innocents' Episcopal School**, Atlanta, GA - 2010-2013
